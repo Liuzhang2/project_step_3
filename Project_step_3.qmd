@@ -37,3 +37,17 @@ Normalization: Ensure consistency across the dataset by standardizing the format
 Alignment: Align translated texts with their source texts to facilitate comparative analysis, paying special attention to how cultural elements are translated.
 - Step 4: Annotation for Cultural and Linguistic Features
 Manual Annotation.
+
+### Assessing your progress
+Reflect on the process of identifying a data preparation strategy.
+Some questions to consider:
+
+- What did you learn?
+  I learnt that the research field is multi-displinary nature and the data complex. The variety and complexity of data that needs to be curated for this research highlighted the intricate relationship between language, culture, and technology.
+  
+- What did you find most/ least challenging?
+  Most Challenging:  This involves subjective judgement influenced by linguistic, cultural, and personal biases, necessitating a robust framework to minimize subjectivity.
+
+- What resources did you consult?
+Academic Literature: Research articles and books on cultural mediation, translation studies, and tourism marketing provided foundational knowledge and theoretical frameworks relevant to the study.
+Online Resources: Utilized online repositories, databases, and search engines to identify and access online travel guides and tourism websites. 
