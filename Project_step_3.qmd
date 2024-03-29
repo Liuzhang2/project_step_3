@@ -1,0 +1,39 @@
+---
+title: "Project_step3"
+arthor: Lily
+format: html
+date: Mar.30,2024
+---
+
+### Data Preparation
+
+- Data Preparation Strategy:
+  - 1. Identify Necessary Data and Datasets:
+Based on the research problem, identify and define the specific types of data required. Consider datasets that contain examples of cultural mediation in tourism, as well as the linguistic and technical challenges faced in the translation and localization of tourism websites.
+
+- Data Acquisition:
+  - Locate sources where the required data can be accessed. This may involve collecting data from tourism websites, translation archives, or datasets available in linguistic and tourism research communities.
+
+- Data Curation:
+  - Assess the quality and relevance of the collected data. This involves filtering out irrelevant content and ensuring the data aligns with the research problem.
+  - Organize the data, tagging it based on categories such as language, type of cultural content, translation approach, and source vs. target language content.
+- Data Transformation:
+  - Normalize and preprocess the data for analysis. Tokenize text data, identify and extract key terms and phrases related to cultural mediation and linguistic features highlighted in the tourism and translation studies.
+  - Reflect on the Process:
+Document the steps taken, challenges faced, and decisions made during the data preparation phase. 
+- Develop a Plan for Analysis:
+Outline how you will analyze the prepared data to address your research problem. 
+
+## Select the aligned data and/ or datasets 
+
+- Step 1: Data Identification and Acquisition
+Source Online Travel Guides and Websites: Identify and collect data from various online travel guides and tourism websites.
+
+- Step 2: Data Curation
+Filtering: Exclude data irrelevant to cultural mediation or that doesn't pose significant translation challenges, such as purely transactional content (e.g., booking forms).
+Categorization: Organize the data into categories based on language pairs, type of cultural content (e.g., historical, culinary), and the nature of translation challenges identified.
+Step 3: Data Transformation for Analysis
+Normalization: Ensure consistency across the dataset by standardizing the format of the text (e.g., removing HTML tags, standardizing encoding).
+Alignment: Align translated texts with their source texts to facilitate comparative analysis, paying special attention to how cultural elements are translated.
+- Step 4: Annotation for Cultural and Linguistic Features
+Manual Annotation.
